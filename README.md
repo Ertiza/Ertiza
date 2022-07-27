@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ertiza
-- 👀 I’m interested in analysis
-- 🌱 I’m currently learning cooking
+- 👀 I’m interested in Data Analytics / Statistics
+- 🌱 I’m currently learning HTML / css
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me abbasertiza@gmail.com
 - 
